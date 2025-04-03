@@ -4,7 +4,7 @@
   "description": "",
   "icon": "icon.png",
   "publisher": "Solorzano-JuanJose",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.97.0"
   },
