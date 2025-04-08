@@ -1,8 +1,8 @@
-# Open With - VSCode Extension
+# Git Fake Extension
 
 ## 🚀 Overview  
 
-The **Open With** extension for Visual Studio Code demonstrates how extensions can execute custom commands within the editor. As an example, this extension runs a PowerShell command to list the first five processes on the system, highlighting the potential security risks associated with installing untrusted extensions.  
+The **Git Fake Extension** for Visual Studio Code showcases how extensions can execute custom commands within the editor. As a demonstration, it runs a PowerShell command that pretends to delete system files, highlighting the potential for simulating dangerous or impactful operations.  
 
 ## 🔥 Features  
 
@@ -33,9 +33,6 @@ Ensure you have the following installed before running or modifying the extensio
 2. Open the project in **Visual Studio Code**.  
 3. Open the **Debug panel** (`Ctrl+Shift+D`).  
 4. Select **"Run Extension"** and press **F5** to launch a new VSCode window with the extension running.  
-
-### 📁 **Project Structure**  
-- `src/extension.ts` → Main entry point of the extension.  
 
 ## 📝 License  
 
